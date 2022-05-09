@@ -1,0 +1,13 @@
+{
+    "name": "Smarty",
+    "alias": "smarty",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Smarty\\Providers\\SmartyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
