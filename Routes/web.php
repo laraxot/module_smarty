@@ -10,9 +10,3 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-Route::prefix('smarty')->group(
-    function () {
-        Route::get('/', 'SmartyController@index');
-    }
-);
